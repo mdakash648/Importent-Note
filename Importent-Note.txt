@@ -1,0 +1,1 @@
+Bangladesh Phone Number regular expression : ^(?:\+?88|0088)?01[3-9]\d{8}$
